@@ -122,9 +122,27 @@ avatar:
   # effect: true # 头像会一直转，转的贼快，太鬼畜了
 
 #顶部图
-index_img: /image/bg.jpeg
-default_top_img: /image/bg.jpeg
+index_img: /image/bg.png
+default_top_img: /image/bg.png
 
+highlight_theme: mac light
+highlight_copy: true
+code_word_wrap: true
+
+social:
+  fab fa-github: https://github.com/hehenihaoQWQ || Github || "#hdhfbb"
+  fas fa-envelope: mailto:609509194@qq.com || Email || "#000000"
+
+cover:
+  # 是否顯示文章封面
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  # 封面顯示的位置
+  # 三個值可配置 left , right , both
+  position: both
+  # 當沒有設置cover時，默認的封面顯示
+  default_cover: /image/ydmy.jpeg
 # index_top_img_height: 400px #顶部图高度
 
 # local_search:
