@@ -1,0 +1,44 @@
+avatar:
+  img: /image/avatar.jpg
+#顶部图
+index_img: /image/bg.png
+default_top_img: /image/bg.png
+# index_top_img_height: 400px #顶部图高度
+local_search:
+  enable: true
+  # Preload the search data when the page loads.
+  preload: false
+  # Show top n results per article, show all results by setting to -1
+  top_n_per_article: 1
+  # Unescape html strings to the readable one.
+  unescape: true
+  CDN:
+
+  canvas_fluttering_ribbon:
+    enable: true
+    mobile: false # false 手机端不显示 true 手机端显示
+
+# 主页subtitle
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 200 # type speed in milliseconds
+  backSpeed: 800 # backspacing speed in milliseconds
+  # loop (循环打字)
+  loop: true
+  # source 调用三方服务
+  # source: false 开关调用
+  # subtitle 会先显示 source , 再显示 sub 的內容
+  source: true
+  # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
+  sub:
+    - 灵柩深埋长谷底 &#44; 没有永远的秘密
+    - 啊巴巴爸爸sd &#44; 大萨达四大欠王额
+
+#加载动画
+preloader:
+  enable: true
+  source: 1 #可选值1=fullpage或2=progress bar，可查看https://codebyzach.github.io/pace/
+  pace_css_url:
