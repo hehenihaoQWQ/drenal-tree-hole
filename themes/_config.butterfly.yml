@@ -108,14 +108,12 @@ nav:
   display_title: true
   fixed: false # fixed navigation bar
 
-menu:
-  首頁: / || fas fa-home
-  時間軸: /archives/ || fas fa-archive
-  標籤: /tags/ || fas fa-tags
-  分類: /categories/ || fas fa-folder-open
-  清單||fa fa-heartbeat:
-    音樂: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    電影: /movies/ || fas fa-video
-  友鏈: /link/ || fas fa-link
-  關於: /about/ || fas fa-heart
+Home: / || fas fa-home
+Archives: /archives/ || fas fa-archive
+Tags: /tags/ || fas fa-tags
+Categories: /categories/ || fas fa-folder-open
+List||fas fa-list:
+  Music: /music/ || fas fa-music
+  Movie: /movies/ || fas fa-video
+Link: /link/ || fas fa-link
+About: /about/ || fas fa-heart
