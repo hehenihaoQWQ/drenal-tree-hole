@@ -127,12 +127,12 @@ default_top_img: /image/bg.png
 
 # index_top_img_height: 400px #顶部图高度
 
-local_search:
-  enable: true
-  # Preload the search data when the page loads.
-  preload: false
-  # Show top n results per article, show all results by setting to -1
-  top_n_per_article: 1
-  # Unescape html strings to the readable one.
-  unescape: true
-  CDN:
+# local_search:
+#   enable: true
+#   # Preload the search data when the page loads.
+#   preload: false
+#   # Show top n results per article, show all results by setting to -1
+#   top_n_per_article: 1
+#   # Unescape html strings to the readable one.
+#   unescape: true
+#   CDN:
