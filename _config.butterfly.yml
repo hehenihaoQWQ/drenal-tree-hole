@@ -180,6 +180,7 @@ mermaid:
     light: default
     dark: dark
 
+favicon: /image/icon.jpeg
 # local_search:
 #   enable: true
 #   # Preload the search data when the page loads.
