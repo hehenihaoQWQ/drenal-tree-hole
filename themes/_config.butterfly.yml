@@ -4,7 +4,6 @@
 
 # Site
 title: Drenal 的树洞
-# 主页subtitle
 subtitle: ''
 description: '一个无聊的烂人'
 keywords:
@@ -41,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -103,4 +102,3 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
