@@ -1,6 +1,10 @@
 ---
-title: [Tank All in One] ESXi + Openwrt AP 篇
-date: 2024-04-06 16:45:07
+title: "[Tank All in One] ESXi + Openwrt AP 篇"
+date: 2024-04-07 00:45:07
+tags:
+- Tank All in One
+- ESXi
+- Openwrt
 categories: 
 - 技术
 cover: https://smms.app/image/C8grlQyY7qPaGeW
