@@ -7,7 +7,6 @@ tags:
 - Openwrt
 categories: 
 - 技术
-cover: https://smms.app/image/C8grlQyY7qPaGeW
 ---
 # [Tank All in One] ESXi + Openwrt AP 篇
 
