@@ -8,7 +8,7 @@ tags:
 categories: 
 - 技术
 - 瞎坤八折腾
-cover:https://smms.app/image/3wWdS8sAjcrEZUv.jpg
+cover: https://smms.app/image/3wWdS8sAjcrEZUv.jpg
 ---
 # [Tank All in One] iStore 美化篇
 
