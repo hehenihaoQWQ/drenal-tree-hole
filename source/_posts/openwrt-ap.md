@@ -35,11 +35,6 @@ Openwrt固件我使用的是 iStore，由于屋里网一直太差，我一直都
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://s2.loli.net/2024/04/07/TzBVPDvycRKShfl.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">图1</div>
 </center>
 
 一开始我用的是 Legacy 模式，虽然也是 5 Ghz 的频率，但是网速也是慢的一批。
@@ -48,22 +43,12 @@ Openwrt固件我使用的是 iStore，由于屋里网一直太差，我一直都
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://s2.loli.net/2024/04/07/sYZNAgB1p2r4tw6.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">图2</div>
 </center>
 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://s2.loli.net/2024/04/07/IyVdJ8KRmjWn2ar.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">图3</div>
 </center>
 
 于是我改成了 AX，信道设置了40，通道宽度 80 MHz，终于达到了我满意的网速。
@@ -73,10 +58,6 @@ Openwrt固件我使用的是 iStore，由于屋里网一直太差，我一直都
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://s2.loli.net/2024/04/07/JD5ONXx6t4KpMdo.png">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">图4</div>
 </center>
 
 <center>
@@ -84,10 +65,6 @@ Openwrt固件我使用的是 iStore，由于屋里网一直太差，我一直都
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="https://s2.loli.net/2024/04/07/i9SZbP8HFKIjYTq.jpg">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">图5</div>
 </center>
 
 Openwrt AP 的设置就先告一段落了，我后续或许会继续搞 Tank 的 Openwrt 作为旁路由或软路由的其他有意思的操作，届时也会记录下来。
