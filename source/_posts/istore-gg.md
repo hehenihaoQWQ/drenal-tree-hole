@@ -1,5 +1,5 @@
 ---
-title: istore-gg
+title: "[Tank All in One] iStore 应用商店踩坑篇"
 date: 2024-04-07 02:25:57
 tags:
 - Tank All in One
