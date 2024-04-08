@@ -8,7 +8,7 @@ tags:
 categories: 
 - 技术
 - 瞎坤八折腾
-cover: https://smms.app/image/3wWdS8sAjcrEZUv.jpg
+cover: https://s2.loli.net/2024/04/08/3wWdS8sAjcrEZUv.jpg
 ---
 # [Tank All in One] iStore 美化篇
 
@@ -19,7 +19,7 @@ cover: https://smms.app/image/3wWdS8sAjcrEZUv.jpg
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://smms.app/image/N96gSWrybVQH5q8.jpg">
+    src="https://s2.loli.net/2024/04/08/N96gSWrybVQH5q8.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -52,7 +52,7 @@ rm bg1.jpg
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://smms.app/image/1KCY6ucyD5rJPbq.jpg">
+    src="https://s2.loli.net/2024/04/08/1KCY6ucyD5rJPbq.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
